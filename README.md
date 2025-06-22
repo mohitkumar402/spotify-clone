@@ -21,7 +21,7 @@ A Spotify clone built with React JS and Tailwind CSS, showcasing a dynamic and r
 
 ## Demo
 
-Check out the live demo [here]().
+Check out the live demo [here](https://spotify-clone-cyan-kappa-22.vercel.app/).
 
 ## Technologies
 
@@ -33,7 +33,7 @@ Check out the live demo [here]().
 
 1. Clone the repository:
     ```sh
-    git clone 
+    git clone https://github.com/mohitkumar402/spotify-clone/
     ```
 2. Navigate to the project directory:
     ```sh
