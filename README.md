@@ -1,66 +1,44 @@
-# Spotify Clone 🎧
+# Spotify Clone
 
-A Spotify clone built with React JS and Tailwind CSS, showcasing a dynamic and responsive user interface. This project is a demonstration of modern web development techniques using React JS hooks, React-DOM for navigation, and the Tailwind CSS framework for styling.
+> A React + Tailwind project recreating the core visual experience of a modern music streaming interface.
 
-## Table of Contents
+**Stack:** React · Tailwind CSS · JavaScript
 
-- [Features](#features)
-- [Demo](#demo)
-- [Technologies](#technologies)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
+---
 
-## Features
+## Highlights
 
-- Dynamic user interface
-- Responsive design, mobile-friendly
-- Seamless navigation using React-DOM
+- Responsive music-focused interface
+- Component-based React architecture
+- Client-side navigation
+- Tailwind-powered styling
+- Modern streaming-app visual language
 
-## Demo
+## Preview
 
-Check out the live demo [here](https://spotify-clone-cyan-kappa-22.vercel.app/).
+[Open Live Demo](https://spotify-clone-cyan-kappa-22.vercel.app/)
 
-## Technologies
+## Run locally
 
-- React JS
-- Tailwind CSS
-- React-DOM
+```bash
+git clone https://github.com/mohitkumar402/spotify-clone.git
+cd spotify-clone
+npm install
+npm start
+```
 
-## Installation
+If your local project uses a different development command, use the script defined in `package.json`.
 
-1. Clone the repository:
-    ```sh
-    git clone https://github.com/mohitkumar402/spotify-clone/
-    ```
-2. Navigate to the project directory:
-    ```sh
-    cd spotify-clone
-    ```
-3. Install dependencies:
-    ```sh
-    npm install
-    ```
+## Project Purpose
 
-## Usage
+This project focuses on frontend engineering: translating a familiar product experience into reusable React components, responsive layouts, and a consistent design system.
 
-1. Start the development server:
-    ```sh
-    npm start
-    ```
-2. Open your browser and navigate to `http://localhost:5173`.
+## Note
 
-## Contributing
-
-Contributions are welcome! Please fork the repository and create a pull request with your changes.
+This is an educational frontend project and is not affiliated with Spotify.
 
 ## License
 
-This project is licensed under the MIT License.
+MIT
 
-## Acknowledgements
-
-Special thanks to the GreatStack YouTube Channel for their invaluable tutorials and guidance.
-
+<p align="center"><strong>Rebuilding familiar products to sharpen product-engineering skills.</strong></p>
